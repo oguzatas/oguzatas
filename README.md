@@ -2,7 +2,7 @@
 -  I’m currently learning about Web devolopment
 - 📫 How to reach me ==> oguzhanatas37@gmail.com
 - 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1pe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1pe&theme=radical&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
