@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @x1pe
--  I’m currently learning about Web devolopment
+-  I’m currently learning about Web/Web3 devolopment
 - 📫 How to reach me ==> oguzhanatas37@gmail.com / info@oguzhanatas.com (currently inactive)
 -  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1pe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
