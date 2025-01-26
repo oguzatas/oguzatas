@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @x1pe
--  I’m currently learning about Web/Web3 devolopment
-- 📫 How to reach me ==> oguzhanatas37@gmail.com / info@oguzhanatas.com (currently inactive)
-- Portfolio : oguzhanatas.com
+- 👋 Hi, I’m @oguzatas
+- 4th grade Computer Engineering Student
+-  I’m interested in Full Stack Web/Web3/Mobile Devolopment 
+-  Learning game devolopment for fun
+
+
+- 📫 How to reach me ==> oguzhanatas37@gmail.com / info@oguzhanatas.com
+-  oguzhanatas.com
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzatas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzatas&theme=radical&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 xipexipe/xipexipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
