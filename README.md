@@ -6,6 +6,11 @@
 
 - 📫 How to reach me ==> oguzhanatas37@gmail.com / info@oguzhanatas.com
 -  oguzhanatas.com
+
+
+<img src="./vibecodergolge.jpg" width="300">
+<img src="./vibecodergolge.jpg" width="300">
+
    
 
 
