@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oguzatas
 - 4th grade Computer Engineering Student
--  I’m interested in Full Stack Web/Web3/Mobile Devolopment 
+-  I’m interested in Full Stack Web/Web3/Mobile Development 
 -  Learning game development for fun
 
 
