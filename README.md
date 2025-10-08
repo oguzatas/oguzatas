@@ -11,7 +11,9 @@
 <img src="./vibecodergolge.jpg" width="300">
 <img src="./makepkg.jpg" height="200">
 </p>
-   
+
+
+<a href="https://app.daily.dev/oguzhanatas"><img src="https://api.daily.dev/devcards/v2/t2DVo1UVLdLEv5iI3jqho.png?type=wide&r=mqa" width="652" alt="Oguzhan Atas's Dev Card"/></a>   
 
 
 <!---
