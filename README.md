@@ -1,6 +1,6 @@
 
 -  feel free to reach me ==> oguzhanatas37@gmail.com / info@oguzhanatas.com
--  --> [I write stuff](oguzhanatas.com/blog)
+-  --> [I write stuff](https://oguzhanatas.com/blog)
 
 <p align="center">
 <img src="./makepkg.jpg" height="200">
